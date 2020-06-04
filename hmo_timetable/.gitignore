@@ -1,0 +1,5 @@
+instance_1/*
+instance_2/*
+*.swp
+__pycache__/*
+.idea/*
